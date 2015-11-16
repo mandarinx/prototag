@@ -21,7 +21,9 @@ Every player throws the dice, the one with the highest value starts. If two or m
     * If the tagged player loses in rock, paper, scissors, the game continues as normal.
     * In any case, both players stay put at the same tile and the round continues as normal.
   * Players cannot move through each other.
+
 <img src="/prototag-board.png"/>
+
 ###Cards
 At special points on the board players can draw action cards. Action cards have different effects and can be played on your own turn, unless otherwise noted on the card.
  * **The wall** - You may place or move a 1x3 wall on the playing field. Players can't move through a wall. (There are only 2 wall tokens)
