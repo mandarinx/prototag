@@ -17,10 +17,19 @@ Every player throws the dice, the one with the highest value starts. If two or m
   * The value of the dice is the maximum number of tiles one can move. One can chose to not move.
   * The next player is the one to the left of the previous player.
   * When the tagged player reaches a tile occupied by another player, they go up against each other in a battle of rock, paper, scissor to determine the new tagged player.
-    * When the tagged player wins, the loser becomes the new tagged player. The winner is immune for any attack by the new tagged player as long as she stays tagged.
-    * If the tagged player loses in rock, paper, scissor, the game continue as normal.
+    * When the tagged player wins, the loser becomes the new tagged player. The winner is immune from any attack or card effects by the newly tagged player for three rounds.
+    * If the tagged player loses in rock, paper, scissors, the game continues as normal.
     * In any case, both players stay put at the same tile and the round continues as normal.
   * Players cannot move through each other.
+
+###Cards
+At special points on the board players can draw action cards. Action cards have different effects and can be played on your own turn, unless otherwise noted on the card.
+The wall - You may place or move a 1x3 wall on the playing field. Players can't move through a wall. (There are only 2 wall tokens)
+Immunity - Get immunity from the active player. If someone else has the immunity token, you take it from them. Lasts 1 round.
+Wormhole - Place or move the 2 wormhole tokens on the board. Travelling from one to another costs one "step". (There are only 2 wormhole tokens)
+Teleport - Roll 2 dice. Place your character on the "coordinate" rolled on the board. If the space is already occupied, you're tagged instead.
+Run - Move 2 spaces in any direction, in addition to your normal die roll.
+Lucky - Reroll 1 die.
 
 ###Notes
 Played during a lunch break Nov. 16th.
