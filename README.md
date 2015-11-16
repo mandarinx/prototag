@@ -24,12 +24,12 @@ Every player throws the dice, the one with the highest value starts. If two or m
 
 ###Cards
 At special points on the board players can draw action cards. Action cards have different effects and can be played on your own turn, unless otherwise noted on the card.
-The wall - You may place or move a 1x3 wall on the playing field. Players can't move through a wall. (There are only 2 wall tokens)
-Immunity - Get immunity from the active player. If someone else has the immunity token, you take it from them. Lasts 1 round.
-Wormhole - Place or move the 2 wormhole tokens on the board. Travelling from one to another costs one "step". (There are only 2 wormhole tokens)
-Teleport - Roll 2 dice. Place your character on the "coordinate" rolled on the board. If the space is already occupied, you're tagged instead.
-Run - Move 2 spaces in any direction, in addition to your normal die roll.
-Lucky - Reroll 1 die.
+ * The wall - You may place or move a 1x3 wall on the playing field. Players can't move through a wall. (There are only 2 wall tokens)
+ * Immunity - Get immunity from the active player. If someone else has the immunity token, you take it from them. Lasts 1 round.
+ * Wormhole - Place or move the 2 wormhole tokens on the board. Travelling from one to another costs one "step". (There are only 2 wormhole tokens)
+ * Teleport - Roll 2 dice. Place your character on the "coordinate" rolled on the board. If the space is already occupied, you're tagged instead.
+ * Run - Move 2 spaces in any direction, in addition to your normal die roll.
+ * Lucky - Reroll 1 die.
 
 ###Notes
 Played during a lunch break Nov. 16th.
