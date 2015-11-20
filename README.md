@@ -32,3 +32,5 @@ Reducing the accumulated steps to 40 was better than 100. The game didn't last t
 The last ~20 moves were the most intense and most enjoyable.
 
 Being forced to move as many tiles as the dice indicated added a level of strategy. Some tiles turned out to be safe, while other's not. It all depended on the number of eyes the tagged player rolled. This created a tension that contributed positively to the experience.
+
+Reducing the board size to 7 x 7 increased the tension a bit. When the tagged player is at the center tile, she can reach all tiles by throwing a 6'er. A smaller board reduced the number of safe tiles.
