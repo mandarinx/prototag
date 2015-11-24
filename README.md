@@ -1,36 +1,38 @@
-# Prototag
-Turn based tag
+# Mexican Shootout
+Turn based saloon fight
 
-##v0.2
+##v0.1
 
 ###Board size
 7 x 7 tiles
 
 ###Win/lose condition
-When accumulated steps by tagged players reach 40. The one who's tagged at the end of the game is the loser.
+First one to get killed lose.
 
 ###Decide who starts
 Every player throws the dice, the one with the highest value starts. If two or more players gets the same value, they go up against each others until one wins.
 
+###Preparation
+Place 4 items at random positions of the board. These are obstacles one can hide behind to protect oneself from enemy fire.
+
 ###Play rules
   * You can move only in straight and right angles.
-  * You must move as many tiles as the dice indicate. The tiles you visit when moving, including the one you started at, can only be visited once during your turn. You cannot move back an forth between two tiles just to spend all steps indicated by the dice. You cannot end up at the tile you started.
+  * You must move as many tiles as the dice indicate. The tiles you visit when moving, including the one you started at, can only be visited once during your turn. You cannot move back an forth between two tiles just to spend all steps. You cannot end up at the tile you started.
   * You can lock yourself in by moving to a tile that doesn't lead to any free tiles. This will end your turn, no matter how many tiles you have moved.
-  * The next player is the one to the left of the previous player.
-  * When the tagged player reaches a tile occupied by another player, they go up against each other in a battle of rock, paper, scissor to determine the new tagged player.
-    * When the tagged player wins, the loser becomes the new tagged player. The winner is immune for any attack by the newly tagged player until the newly tagged player has moved 5 tiles. Your immunity invalidates on the 5th move.
-    * If the tagged player loses in rock, paper, scissor, the game continue as normal.
-    * In any case, both players stay put at the same tile and the round continues as normal.
+  * The next player is the one to the left of the current player.
+  * Players cannot stand on the same tile.
   * Players cannot move through each other.
-  * The currently tagged player uses a D6 dice, while the other players use a D4.
+  * Use a D6 dice for movement.
+  * Each turn consists of a moving phase and shooting phase. Roll the dice, move the number of steps indicated, then shoot.
+  * Shooting happends by drawing cards. The shooter wins by drawing a card with higher value than the defender.
+  * Each player has 3 lives.
+  * Obstacles can take one shot. When they do, they are taken out of the game forevah!
 
 ###Notes
-Played during a lunch break Nov. 20th.
+Played during a lunch break Nov. 24th.
 
-Reducing the accumulated steps to 40 was better than 100. The game didn't last too long, and didn't result in as much down time. Player's who are safe from being attacked still experience too much down time.
+It was an experiment to see what could be done to make the game quicker and more engaging for all players. It turned out to be a little too quick.
 
-The last ~20 moves were the most intense and most enjoyable.
+We noticed an increased level of strategy during the movement phase, probably due to the obstacles. You were led to consider both short and long term consequences of your positioning. Position yourself where you can shoot someone, and also try to stay out of sight for the next players.
 
-Being forced to move as many tiles as the dice indicated added a level of strategy. Some tiles turned out to be safe, while other's not. It all depended on the number of eyes the tagged player rolled. This created a tension that contributed positively to the experience.
-
-Reducing the board size to 7 x 7 increased the tension a bit. When the tagged player is at the center tile, she can reach all tiles by throwing a 6'er. A smaller board reduced the number of safe tiles.
+The main flaw was that the weakest player drew all the attention of the others. It emerged as a survival strategy since the game would be over as soon as someone died. It's a way of protecting oneself.
